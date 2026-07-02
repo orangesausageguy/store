@@ -1,0 +1,5 @@
+function buyItem(item){
+
+alert("Thanks for pretending to buy the " + item + "!\n\nThis is only a demo store.");
+
+}
